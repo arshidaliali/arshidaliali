@@ -33,6 +33,8 @@ A full-stack application for downloading supported YouTube videos, with backgrou
 - 🌐 [Live Demo](https://youtubevideodownload.app)
 - 💻 [Source Code](https://github.com/arshidaliali/youtube-downloader)
 
+- Rendering & Technical SEO: Server-Side Rendering (SSR), Static Site Generation (SSG), SEO-friendly metadata, crawlability, and web performance optimization using Next.js.
+
 ### Django E-commerce Backend
 A backend project built with Django and Django REST Framework, incorporating database management, background tasks, authentication, and payment integration.
 
